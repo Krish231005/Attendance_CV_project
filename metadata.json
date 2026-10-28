@@ -1,0 +1,8 @@
+{
+  "name": "FaceGuard Attendance",
+  "description": "A deep learning powered face recognition attendance system using CNNs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
